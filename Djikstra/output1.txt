@@ -1,0 +1,4 @@
+Final Cost:19 Final Length:19
+-----------------------------
+[8L, 5U, 6R, 8D, 5L, 6U, 2U, 1L, 4D, 2R, 1U, 3R, 8D, 5D, 6L, 7L, 2U, 1R, 7D]
+time: 215 millis
